@@ -1,6 +1,5 @@
 # Projeto Cookenu
 
-
 O projeto refere-se a um app que contem receitas para cozinhar em seu dia a dia.
 
 ##
