@@ -6,7 +6,8 @@ O projeto refere-se a um app que contem receitas para cozinhar em seu dia a dia.
 
 link surge:
 
-https://tacky-knowledge.surge.sh/login
+https://tacky-knowledge.surge.sh
+
 
 ##
 
